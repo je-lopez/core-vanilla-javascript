@@ -149,21 +149,22 @@ Exercism provides a number of practice problems along with unit tests to ensure 
 
 - Read the [Exercism setup](/exercism/setup.md) instructions
 
-- [ ] Solve `/exercism/saddle-points`
-- [ ] Solve `/exercism/meetup`
-- [ ] Solve `/exercism/matrix`
+- [x] Solve `/exercism/saddle-points`
+- [ ] Solve `/exercism/meetup` 
+- [x] Solve `/exercism/matrix`
 
 ## Day 5: More challenges
 
 Today is going to be a tough one. These challenges are tricky, and will need you to be focussed 100% to make it through:
 
-- [ ] Solve `/exercism/run-length-encoding`
+- [x] Solve `/exercism/run-length-encoding`
 - [ ] Solve `/exercism/crypto-square`
-- [ ] Solve `/exercism/pig-latin`
+- [x] Solve `/exercism/pig-latin`
 - [ ] Solve `/exercism/series`
 - [ ] Solve `/exercism/flatten-array`
 - [ ] Solve `/exercism/difference-of-squares`
 
+ 44/56
 
 #### Stretch
 
